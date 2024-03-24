@@ -16,5 +16,5 @@
 ##### b. Class Diagram
 ##### c.Testing
 #### Attendance Form
-![alt text] (https://github.com/iarenal/group2payrollsystem/blob/main/EAttendance.form "Logo Tile Text 1")
+![alt text] (https://github.com/iarenal/group2payrollsystem/blob/main/data%203.png "Logo Tile Text 1")
 
