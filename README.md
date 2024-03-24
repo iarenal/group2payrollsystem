@@ -35,9 +35,8 @@
       <dd>***a. Employee:***<br/>
       - Accesses the Employee Dashboard for recent activities, announcements, and company articles. <br/>
       - Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.<br/>
-      - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively.<br/></dd>
+      - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively.</dd><br/>
       
-
   <dt>1.2 Navigating the User Guide</dt>
   
   <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:
