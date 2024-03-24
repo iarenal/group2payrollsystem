@@ -5,8 +5,8 @@
 #### Table of Contents
 
 ##### I. Introduction 
-##### 1. User Roles
-##### 2. Navigating the User Guide
+##### ..* User Roles
+##### ..* Navigating the User Guide
 
 ##### II. Getting Started 
 ##### 1. User Roles
