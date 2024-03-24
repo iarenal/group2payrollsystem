@@ -32,19 +32,19 @@
  ### 1.1 User Roles<br/>
    <dd> The MotorPH Payroll System caters to distinct user roles, each with specific functionalities tailored to their responsibilities within the organization. These roles ensure efficient navigation and utilization of the system's features. Below are the user roles:</dd><br/>
       **a. Employee:**<br/>
-        <dd>- Accesses the Employee Dashboard for recent activities, announcements, and company articles.</dd> <br/>
-        <dd>- Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.</dd><br/>
-        <dd>- Views payroll details and submits requests via the Payroll and Requests Tabs, respectively.</dd><br/>
+        - Accesses the Employee Dashboard for recent activities, announcements, and company articles.<br/>
+        - Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.<br/>
+        - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively.<br/>
         **b. HR Staff:**<br/>
-        <dd>- Manages employee information, including adding, viewing, editing, and deleting employee records.</dd> <br/>
-        <dd>- Handles employee requests and accesses HR-related functionalities such as viewing and editing employee information and processing requests.</dd><br/>
+        - Manages employee information, including adding, viewing, editing, and deleting employee records.<br/>
+        - Handles employee requests and accesses HR-related functionalities such as viewing and editing employee information and processing requests.<br/>
         **c. Payroll Staff:**<br/>
-        <dd>- Manages payroll-related tasks, including viewing payroll details, managing invoices, and handling time records.</dd><br/>
-        <dd>- Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.</dd><br/>
-        <dd>- Accesses employee information for payroll processing purposes, such as viewing employee details relevant to payroll management.</dd><br/>
+        - Manages payroll-related tasks, including viewing payroll details, managing invoices, and handling time records.<br/>
+        - Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.<br/>
+        - Accesses employee information for payroll processing purposes, such as viewing employee details relevant to payroll management.<br/>
         **d. System Administrator**<br/>
-        <dd>- Manages technical aspects of the MotorPH Payroll System, including system maintenance and updates.</dd> <br/>
-        <dd>- Manages access permissions for each employee in the payroll system to ensure data security and compliance.</dd><br/>
+        - Manages technical aspects of the MotorPH Payroll System, including system maintenance and updates. <br/>
+        - Manages access permissions for each employee in the payroll system to ensure data security and compliance.<br/>
       
  ### 1.2 Navigating the User Guide<br/>  
   <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:
