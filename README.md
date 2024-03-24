@@ -4,9 +4,9 @@
 
 #### Table of Contents
 
-##### I. Introduction 
-##### 1. User Roles
-##### 2. Navigating the User Guide
+##### I. [Introduction] (https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
+##### 1. [User Roles] (https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles)
+##### 2. [Navigating the User Guide] (https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide)
 
 ##### II. Getting Started 
 ##### 1. User Roles
