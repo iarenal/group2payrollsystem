@@ -1,4 +1,4 @@
-# MotorPH Payroll System User
+# MotorPH Payroll System User Documentation
 ### Table of Contents
 #### I. Introduction
 ##### a. User Roles
