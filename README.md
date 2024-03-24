@@ -50,9 +50,20 @@
 
       
 ### 1.2 Navigating the User Guide<br/>  
-  <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:
-</dd>
+  <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:</dd><br/>
+  **a. Table of Contents (TOC) Overview:**<br/>      
+  - The Table of Contents (TOC) acts as a roadmap, enabling users to quickly locate specific topics, sections, or functionalities within the user guide.<br/>
+  - Users can navigate the document by clicking on the titles or headings in the TOC, facilitating easy access to relevant information.<br/>
 
+  **b. Search Functionality:**<br/>      
+  - The user guide features a search function that allows users to find specific keywords, terms, or topics efficiently.<br/>
+  - Users can use the search bar in the user guide interface to enter search queries and retrieve relevant information promptly.<br/>
+  - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively. <br/>
+
+  **c. Step-by-Step Instructions**<br/>      
+  - Detailed step-by-step instructions are provided throughout the user guide, guiding users through various tasks, processes, and workflows related to the MotorPH Payroll System.<br/>
+  - Users should follow the sequential instructions outlined in each section to perform tasks accurately and efficiently.<br/>
+ 
 
 
 
