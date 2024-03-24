@@ -2,7 +2,7 @@
 # MotorPH Payroll System Documentation 
 
 
-#### Table of Contents
+#### <font color="red">Table of Contents</font>
 
 ##### I. [Introduction](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
 ##### 1. [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
