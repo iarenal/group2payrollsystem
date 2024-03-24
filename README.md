@@ -32,9 +32,9 @@
    <dd> The MotorPH Payroll System caters to distinct user roles, each with specific functionalities tailored to their responsibilities within the organization. These roles ensure efficient navigation and utilization of the system's features. Below are the user roles:</dd><br/>
   **a. Employee:**<br/>
       
-     ..* Accesses the Employee Dashboard for recent activities, announcements, and company articles.
-     ..* Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.
-     ..* Views payroll details and submits requests via the Payroll and Requests Tabs, respectively. <br/>
+..* Accesses the Employee Dashboard for recent activities, announcements, and company articles.
+..* Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.
+..* Views payroll details and submits requests via the Payroll and Requests Tabs, respectively. <br/>
    
 
       
