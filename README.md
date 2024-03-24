@@ -1,5 +1,5 @@
 
-# MotorPH Payroll System User Documentation <br\>
+# MotorPH Payroll System User Documentation 
 
 #### Table of Contents
 
