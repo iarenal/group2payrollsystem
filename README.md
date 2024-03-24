@@ -7,14 +7,14 @@
 
 ###### 1. User Roles
 ###### 2. Navigating the User Guide
-<br\>
+<br/>
 
 ##### II. Getting Started 
 
 ###### 1. User Roles
 ###### 2. Navigating the User Guide
 ###### 3. Accessing the System 
-<br\>
+<br/>
 ##### III. Using the Payroll System
 
 ###### 1. Secure Login Procedures
