@@ -17,6 +17,10 @@
 ##### 2. Salary and Deduction Calculations
 ##### 3. Leave Applications
 
+##### IV. Technical Information
+##### 1. Use Case Diagram
+##### 2. Class Diagram
+##### 3. Testing
 ---
 
 ## 1. Introduction
