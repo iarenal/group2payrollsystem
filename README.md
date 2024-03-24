@@ -1,35 +1,41 @@
+
 # MotorPH Payroll System User Documentation
-### Table of Contents
-#### I. Introduction
-    ...1. User Roles<br/>
-    ...2. Navigating the User Guide<br/>
-#### II. Getting Started
- ...a. Hardware Prerequisites<br/>
- ...b. Software Prerequisites<br/>
- ...c. Accessing The System
-#### II. Using the Payroll System
- ...a. Secure Login Procedures<br/>
- ...b. Salary and Deduction Calculations<br/>
- ...c. Leave Applications<br/>
-##### III. Technical Information
- ...a. Use Case Diagram<br/>
- ...b. Class Diagram<br/>
- ...c.Testing <br/>
 
-[main log in] (main login)
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+# Hi, I'm Katherine! 👋
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
