@@ -15,4 +15,6 @@
 ##### a. Use Case Diagram
 ##### b. Class Diagram
 ##### c.Testing
+#### Attendance Form
+![alt text] (https://github.com/iarenal/group2payrollsystem/blob/main/EAttendance.form "Logo Tile Text 1")
 
