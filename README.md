@@ -8,7 +8,6 @@
 ###### 1. User Roles
 ###### 2. Navigating the User Guide
 <br/>
-
 ##### II. Getting Started 
 
 ###### 1. User Roles
