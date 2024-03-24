@@ -38,7 +38,7 @@
         - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively.</dd><br/>
         **b. HR Staff:**<br/>
         <dd>- Manages employee information, including adding, viewing, editing, and deleting employee records. <br/>
-        - Handles employee requests and accesses HR-related functionalities such as viewing and editing employee information and processing requests.<br/>
+        - Handles employee requests and accesses HR-related functionalities such as viewing and editing employee information and processing requests.</dd><br/>
         **c. Payroll Staff:**<br/>
         <dd>- Manages payroll-related tasks, including viewing payroll details, managing invoices, and handling time records.<br/>
         - Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.<br/>
