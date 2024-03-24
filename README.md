@@ -1,8 +1,8 @@
 # MotorPH Payroll System User Documentation
 ### Table of Contents
 #### I. Introduction
-    ...  a. User Roles<br/>
-    ...  b. Navigating the User Guide<br/>
+    ...1. User Roles<br/>
+    ...2. Navigating the User Guide<br/>
 #### II. Getting Started
  ...a. Hardware Prerequisites<br/>
  ...b. Software Prerequisites<br/>
