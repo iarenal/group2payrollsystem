@@ -31,7 +31,7 @@
   
  <dd> By centralizing these tasks into one user-friendly interface, the MotorPH Payroll System aims to enhance efficiency, accuracy, and transparency in payroll operations. With intuitive navigation and functionalities, the system provides MotorPH with a reliable solution for managing payroll effectively.</dd><br/>
 
-  <dt>1.1 User Roles</dt>
+  <dt>1.1 User Roles</dt><br/>
   
   <dd>The MotorPH Payroll System caters to distinct user roles, each with specific functionalities tailored to their responsibilities within the organization. These roles ensure efficient navigation and utilization of the system's features. Below are the user roles:</dd><br/>
       **a. Employee:**<br/>
