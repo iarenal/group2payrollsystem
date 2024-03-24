@@ -36,7 +36,18 @@
   - Accesses the Employee Dashboard for recent activities, announcements, and company articles.<br/>
   - Manages attendance through the Attendance Tab, including logging time in/out and viewing leave credits.<br/>
   - Views payroll details and submits requests via the Payroll and Requests Tabs, respectively. <br/>
-   
+  **b. HR Staff:**<br/>
+      
+  - Manages employee information, including adding, viewing, editing, and deleting employee records.<br/>
+  - Handles employee requests and accesses HR-related functionalities such as viewing and editing employee information and processing requests.<br/>
+  **c. Payroll Staff:**<br/>
+      
+  - Manages payroll-related tasks, including viewing payroll details, managing invoices, and handling time records.<br/>
+  - Accesses employee information for payroll processing purposes, such as viewing employee details relevant to payroll management.<br/>
+  **d. System Administrator:**<br/>
+      
+  - Manages technical aspects of the MotorPH Payroll System, including system maintenance and updates.<br/>
+  - Manages access permissions for each employee in the payroll system to ensure data security and compliance.<br/>
 
       
 ### 1.2 Navigating the User Guide<br/>  
