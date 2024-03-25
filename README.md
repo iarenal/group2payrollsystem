@@ -5,23 +5,23 @@
 #### <font color="red">Table of Contents</font>
 
 ##### I. [Introduction](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
-  ##### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
-  ##### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide) 
+  ##### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) <br/>
+  ##### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide)<br/>
   
 ##### II. Getting Started 
-  ##### 2.1 Hardware Prerequisites
-  ##### 2.2 Software Prerequisites
-  ##### 2.3 Accessing the System 
+  ##### 2.1 Hardware Prerequisites<br/>
+  ##### 2.2 Software Prerequisites<br/>
+  ##### 2.3 Accessing the System <br/>
 
 ##### III. Using the Payroll System
-  ##### 3.1 Secure Login Procedures
-  ##### 3.2 Salary and Deduction Calculations
-  ##### 3.3 Leave Applications
+  ##### 3.1 Secure Login Procedures<br/>
+  ##### 3.2 Salary and Deduction Calculations<br/>
+  ##### 3.3 Leave Applications<br/>
 
 ##### IV. Technical Information
-  ##### 4.1 Use Case Diagram
-  ##### 4.2 Class Diagram
-  ##### 4.3 Test Cases
+  ##### 4.1 Use Case Diagram<br/>
+  ##### 4.2 Class Diagram<br/>
+  ##### 4.3 Test Cases<br/>
 ---
 
 
