@@ -116,9 +116,12 @@
 
 ## <font color="#2A86BF">IV. Technical Information</font>
 ### 4.1 Use Case Diagram
-![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/b6bacb02-fdfa-4d8b-ac8d-e42f0ace85ab)<br/>
+![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65a158dd-be99-46be-8c67-4f90fae7979a)<br/>
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
- <dd>The diagram above shows the Employee’s interaction inside the payroll system.</dd>
+##### <dd>The diagram above shows the Employee’s interaction inside the payroll system.<br/>
+######  <dd>Actions includes the following: </dd>
+###### *Log In: 
+###### > USer
 --
 
 ![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/fa6cb898-c32f-4a93-813d-ee5fe3a619cf)
