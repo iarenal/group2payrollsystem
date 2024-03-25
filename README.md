@@ -140,7 +140,9 @@
 #####  **d. Delete Employee Information:** This action allows user to delete employee information. 
 #####  **e. Approve / Reject Requests:** This action allows user to manage employee requests. 
 
-![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/c02c6e3c-21a7-43b8-bc59-cede790a9135)
+---
+
+![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/4d708b91-dc01-4389-9ae5-95bc42385b13)
 
 ###### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
 
