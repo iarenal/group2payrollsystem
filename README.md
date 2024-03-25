@@ -52,7 +52,7 @@
       
 ### 1.2 Navigating the User Guide<br/>  
   <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:</dd><br/>
-  **- a. Table of Contents (TOC) Overview:**<br/>      
+  **a. Table of Contents (TOC) Overview:**<br/>      
   - The Table of Contents (TOC) acts as a roadmap, enabling users to quickly locate specific topics, sections, or functionalities within the user guide.<br/>
   - Users can navigate the document by clicking on the titles or headings in the TOC, facilitating easy access to relevant information.<br/>
 
