@@ -85,6 +85,7 @@
   - Connect to the internet with a stable connection.<br/>
   - Open your web browser and navigate to the MotorPH Payroll System login page.<br/>
   - Bookmark the page for easy access in the future.<br/>
+  
 ---
 
 
@@ -106,7 +107,10 @@
   - Select the type of leave: Sick, Emergency, or Vacation.<br/>
   - Fill out the form with dates and reasons for your leave.<br/>
   - Submit your application; it will be sent to your manager for approval.<br/>
+ 
 ---
+
+## 4. Technical Information
 
 
 
