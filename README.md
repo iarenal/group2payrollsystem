@@ -5,8 +5,8 @@
 #### <font color="red">Table of Contents</font>
 
 ##### I. Introduction
-###### 1.1 User Roles<br/>
-###### 1.2 Navigating the User Guide<br/>
+##### 1.1 User Roles<br/>
+##### 1.2 Navigating the User Guide<br/>
   
 ##### II. Getting Started 
 ##### 2.1 Hardware Prerequisites<br/>
