@@ -5,26 +5,26 @@
 #### <font color="red">Table of Contents</font>
 
 ##### I. [Introduction](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
-##### 1. [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
-##### 2. [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide) 
+##### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
+##### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide) 
 ##### II. Getting Started 
-##### 1. Hardware Prerequisites
-##### 2. Software Prerequisites
-##### 3. Accessing the System 
+##### 2.1 Hardware Prerequisites
+##### 2.2 Software Prerequisites
+##### 2.3 Accessing the System 
 
 ##### III. Using the Payroll System
-##### 1. Secure Login Procedures
-##### 2. Salary and Deduction Calculations
-##### 3. Leave Applications
+##### 3.1 Secure Login Procedures
+##### 3.2 Salary and Deduction Calculations
+##### 3.3 Leave Applications
 
 ##### IV. Technical Information
-##### 1. Use Case Diagram
-##### 2. Class Diagram
-##### 3. Test Cases
+##### 4.1 Use Case Diagram
+##### 4.2 Class Diagram
+##### 4.3 Test Cases
 ---
 
 
-## 1. Introduction
+## I. Introduction
 
 <dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> 
 
@@ -67,7 +67,7 @@
 ---
 
 
-## 2. Getting Started
+## II. Getting Started
 ### 2.1 Hardware Prerequisites
   <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd>
   - CPU: Dual-core processor, 2 GHz or higher<br/>
@@ -113,6 +113,9 @@
 
 
 ## 4. Technical Information
+### 4.1 Use Case Diagram
+### 4.2 Class Diagram
+### 4.3 Test Cases
 
 
 
