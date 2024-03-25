@@ -125,11 +125,20 @@
 #####  **c. Profile View (includes viewing of Leave Credits and Request Status, Salary History, & Time Record):** An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. 
 #####  **d. Submit Overtime and Leave Requests:** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
 
---
+---
 
-![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/fa6cb898-c32f-4a93-813d-ee5fe3a619cf)
 
-###### _<font color="red">Figure 2: HR Use Case Diagram</font>_
+![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/2d972cef-b65a-49e3-a3c7-fe9d4ddb9fc5)
+
+#### _<font color="red">Figure 2: HR Use Case Diagram</font>_
+##### The diagram above shows the HR user’s interaction inside the payroll system.
+##### * Actions includes the following: 
+#####  **a. Log In:** HR user starts by logging into the system.
+#####  **b. View Employee Information:** This action allows user to view employee profile and records.
+#####  **c. Add New Employee: This action allows user to add new employee in the database.
+#####  **d. Edit Employee Information:** This action allows user to edit employee information. 
+#####  **d. Delete Employee Information:** This action allows user to delete employee information. 
+#####  **e. Approve / Reject Requests:** This action allows user to manage employee requests. 
 
 ![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/c02c6e3c-21a7-43b8-bc59-cede790a9135)
 
