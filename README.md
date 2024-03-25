@@ -116,7 +116,8 @@
 
 ## <font color="#2A86BF">IV. Technical Information</font>
 ### 4.1 Use Case Diagram
-![Employee Use Case Diagram](https://github.com/iarenal/group2payrollsystem/blob/main/image/Use%20Case_Employee.png)<br/>
+![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/b6bacb02-fdfa-4d8b-ac8d-e42f0ace85ab)<br/>
+
 ###### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
