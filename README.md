@@ -129,7 +129,6 @@
 
 
 ![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/2d972cef-b65a-49e3-a3c7-fe9d4ddb9fc5)
-
 #### _<font color="red">Figure 2: HR Use Case Diagram</font>_
 ##### The diagram above shows the HR user’s interaction inside the payroll system.
 ##### * Actions includes the following: 
@@ -142,9 +141,13 @@
 
 ---
 
-![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/4d708b91-dc01-4389-9ae5-95bc42385b13)
 
-###### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
+![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/4d708b91-dc01-4389-9ae5-95bc42385b13)
+#### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
+
+![Use Case_System Admin](https://github.com/iarenal/group2payrollsystem/assets/157627486/de5cefd4-adff-4577-8814-0604e423867f)
+
+#### _<font color="red">Figure 3: System Admin Use Case Diagram</font>_
 
 ### 4.2 Class Diagram
 ![ClassDiagram drawio](https://github.com/iarenal/group2payrollsystem/assets/157627486/7dc3aaad-9cab-449f-8f87-29abbd664e98)
