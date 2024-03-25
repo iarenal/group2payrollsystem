@@ -1,12 +1,12 @@
 
-# <font color="#2A86BF">MotorPH Payroll System Documentation</font> 
+# <font color="#2A86BF">MotorPH Payroll System Documentation</font> <br/>
 
 
 #### <font color="red">Table of Contents</font>
 
 ##### I. [Introduction](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
-##### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) <br/>
-##### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide)<br/>
+###### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) <br/>
+###### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide)<br/>
   
 ##### II. Getting Started 
 ##### 2.1 Hardware Prerequisites<br/>
