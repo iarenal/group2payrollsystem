@@ -1,5 +1,5 @@
 
-# <font color="#323DE1">MotorPH Payroll System Documentation</font> 
+# <font color="#2A86BF">MotorPH Payroll System Documentation</font> 
 
 
 #### <font color="red">Table of Contents</font>
