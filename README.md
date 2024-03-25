@@ -90,7 +90,7 @@
 ---
 
 
-## 3. Using the Payroll System
+## III. Using the Payroll System
 ### 3.1 Secure Login Procedures
   <dd>Ensure that your login credentials are kept confidential. To log in:</dd>
   - Enter your unique username, typically your company email.<br/>
@@ -112,7 +112,7 @@
 ---
 
 
-## 4. Technical Information
+## IV. Technical Information
 ### 4.1 Use Case Diagram
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
