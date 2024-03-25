@@ -135,7 +135,7 @@
 ##### * Actions includes the following: 
 #####  **a. Log In:** HR user starts by logging into the system.
 #####  **b. View Employee Information:** This action allows user to view employee profile and records.
-#####  **c. Add New Employee: This action allows user to add new employee in the database.
+#####  **c. Add New Employee:** This action allows user to add new employee in the database.
 #####  **d. Edit Employee Information:** This action allows user to edit employee information. 
 #####  **d. Delete Employee Information:** This action allows user to delete employee information. 
 #####  **e. Approve / Reject Requests:** This action allows user to manage employee requests. 
