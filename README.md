@@ -123,7 +123,7 @@
 #####  **a. Log In:** Employee’s start by logging into the system.
 #####  **b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.
 #####  **c. Profile View (includes viewing of Leave Credits and Request Status, Salary History, & Time Record):** An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. 
-#####  **d. Submit Overtime and Leave Requests: ** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
+#####  **d. Submit Overtime and Leave Requests:** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
 
 --
 
