@@ -8,8 +8,8 @@
 ##### 1. [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
 ##### 2. [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide) 
 ##### II. Getting Started 
-##### 1. User Roles
-##### 2. Navigating the User Guide
+##### 1. Hardware Prerequisites
+##### 2. Software Prerequisites
 ##### 3. Accessing the System 
 
 ##### III. Using the Payroll System
@@ -20,7 +20,7 @@
 ##### IV. Technical Information
 ##### 1. Use Case Diagram
 ##### 2. Class Diagram
-##### 3. Testing
+##### 3. Test Cases
 ---
 
 
@@ -63,6 +63,7 @@
   **c. Step-by-Step Instructions**<br/>      
   - Detailed step-by-step instructions are provided throughout the user guide, guiding users through various tasks, processes, and workflows related to the MotorPH Payroll System.<br/>
   - Users should follow the sequential instructions outlined in each section to perform tasks accurately and efficiently.<br/>
+  
 ---
 
 
@@ -109,6 +110,7 @@
   - Submit your application; it will be sent to your manager for approval.<br/>
  
 ---
+
 
 ## 4. Technical Information
 
