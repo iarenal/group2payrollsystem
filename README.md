@@ -130,6 +130,21 @@
 
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
+##### Internal Test <br/>
+- _<font color="red">Functionality Test </font>_
+![Internal 1](https://github.com/iarenal/group2payrollsystem/assets/157627486/99770de5-b2c3-4093-bd6b-a37d708cb4f5)
+![Internal 2](https://github.com/iarenal/group2payrollsystem/assets/157627486/43c6aac7-fcca-426b-af95-1b4cba9ef536)
+![Internal 3](https://github.com/iarenal/group2payrollsystem/assets/157627486/32308fda-e259-4953-b77c-75e2df83e89a)
+![Internal 4](https://github.com/iarenal/group2payrollsystem/assets/157627486/1fedc36f-0f4d-46b6-91e6-3d07f9cd0366)
+![Internal 5](https://github.com/iarenal/group2payrollsystem/assets/157627486/15419d28-d3be-44cb-996f-35a643cf6b54)
+![Internal 6](https://github.com/iarenal/group2payrollsystem/assets/157627486/22e98fa2-2f51-430e-aeea-82df64ba1046)
+![Internal 7](https://github.com/iarenal/group2payrollsystem/assets/157627486/2425e128-1a4f-449e-8485-aa3006390743)
+
+
+
+
+
+
 
 
 
