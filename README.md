@@ -64,6 +64,8 @@
   - Detailed step-by-step instructions are provided throughout the user guide, guiding users through various tasks, processes, and workflows related to the MotorPH Payroll System.<br/>
   - Users should follow the sequential instructions outlined in each section to perform tasks accurately and efficiently.<br/>
 ---
+
+
 ## 2. Getting Started
 ### 2.1 Hardware Prerequisites
   <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd>
@@ -83,8 +85,8 @@
   - Connect to the internet with a stable connection.<br/>
   - Open your web browser and navigate to the MotorPH Payroll System login page.<br/>
   - Bookmark the page for easy access in the future.<br/>
-  
 ---
+
 
 ## 3. Using the Payroll System
 ### 3.1 Secure Login Procedures
@@ -104,8 +106,9 @@
   - Select the type of leave: Sick, Emergency, or Vacation.<br/>
   - Fill out the form with dates and reasons for your leave.<br/>
   - Submit your application; it will be sent to your manager for approval.<br/>
-  
 ---
+
+
 
 
 
