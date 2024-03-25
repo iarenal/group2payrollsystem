@@ -119,6 +119,15 @@
 ![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/b6bacb02-fdfa-4d8b-ac8d-e42f0ace85ab)<br/>
 
 ###### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
+
+![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/fa6cb898-c32f-4a93-813d-ee5fe3a619cf)
+
+###### _<font color="red">Figure 2: HR Use Case Diagram</font>_
+
+![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/d3910a0a-548e-4700-b029-712975474427)
+
+###### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
+
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
 
