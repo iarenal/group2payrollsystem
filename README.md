@@ -118,9 +118,9 @@
 ### 4.1 Use Case Diagram
 ![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65a158dd-be99-46be-8c67-4f90fae7979a)<br/>
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
-##### <dd>The diagram above shows the Employee’s interaction inside the payroll system.</dd><br/>
-    * Actions includes the following: 
-       Log In: 
+##### <dd>The diagram above shows the Employee’s interaction inside the payroll system.</dd>
+##### * Actions includes the following: 
+#####  a. Log In: 
 ###### > USer
 --
 
