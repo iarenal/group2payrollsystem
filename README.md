@@ -4,24 +4,24 @@
 
 #### <font color="red">Table of Contents</font>
 
-##### I. [[Introduction] ](https://tinyurl.com/mrvbd26u)
-##### 1.1 User Roles<br/>
-##### 1.2 Navigating the User Guide<br/>
+##### I. [Introduction](https://tinyurl.com/4a8mas3c)
+##### 1.1 [User Roles](https://tinyurl.com/324hpeke)<br/>
+##### 1.2 [Navigating the User Guide](https://tinyurl.com/yc6vm73t)<br/>
   
-##### II. Getting Started 
-##### 2.1 Hardware Prerequisites<br/>
-##### 2.2 Software Prerequisites<br/>
-##### 2.3 Accessing the System <br/>
+##### II. [Getting Started ](https://tinyurl.com/4ket35bt)
+##### 2.1 [Hardware Prerequisites](https://tinyurl.com/yhxvzntd)<br/>
+##### 2.2 [Software Prerequisites](https://tinyurl.com/2y4bzat3)<br/>
+##### 2.3 [Accessing the System](https://tinyurl.com/2pavptwd) <br/>
 
-##### III. Using the Payroll System
-##### 3.1 Secure Login Procedures<br/>
-##### 3.2 Salary and Deduction Calculations<br/>
-##### 3.3 Leave Applications<br/>
+##### III. [Using the Payroll System](https://tinyurl.com/4f43pup7)
+##### 3.1 [Secure Login Procedures](https://tinyurl.com/yzw848xu)<br/>
+##### 3.2 [Salary and Deduction Calculations](https://tinyurl.com/y54aaz2r)<br/>
+##### 3.3 [Leave Approval and Application](https://tinyurl.com/5a25ytr5)<br/>
 
-##### IV. Technical Information
-##### 4.1 Use Case Diagram<br/>
-##### 4.2 Class Diagram<br/>
-##### 4.3 Test Cases<br/>
+##### IV. [Technical Information](https://tinyurl.com/54pmxt8z)
+##### 4.1 [Use Case Diagram](https://tinyurl.com/wse2p4hh)<br/>
+##### 4.2 [Class Diagram](https://tinyurl.com/yc5wb69n)<br/>
+##### 4.3 [Test Cases](https://tinyurl.com/56my5wk8)<br/>
 ---
 
 
@@ -104,7 +104,7 @@
   - Deductions for SSS, Philhealth, and Pag-ibig contributions are computed according to the latest government-mandated rates.<br/>
   - Taxes are withheld based on your taxable income, following the latest tax brackets.<br/>
   
-### 3.3 Leave Applications
+### 3.3 Leave Approval and Application
   <dd>To apply for a leave:</dd>
   - Navigate to the 'Leave Applications' section.<br/>
   - Select the type of leave: Sick, Emergency, or Vacation.<br/>
