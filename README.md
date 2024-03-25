@@ -145,6 +145,9 @@
 ###### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
 
 ### 4.2 Class Diagram
+![ClassDiagram drawio](https://github.com/iarenal/group2payrollsystem/assets/157627486/7dc3aaad-9cab-449f-8f87-29abbd664e98)
+
+
 ### 4.3 Test Cases
 #### Internal Tests <br/>
 ##### _<font color="red">Functionality Test </font>_
