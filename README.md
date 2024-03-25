@@ -7,6 +7,7 @@
 ##### I. [Introduction](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#1-introduction)
   ##### 1.1 [User Roles](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#11-user-roles) 
   ##### 1.2 [Navigating the User Guide](https://github.com/iarenal/group2payrollsystem/blob/main/README.md#12-navigating-the-user-guide) 
+  
 ##### II. Getting Started 
   ##### 2.1 Hardware Prerequisites
   ##### 2.2 Software Prerequisites
