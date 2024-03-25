@@ -25,7 +25,7 @@
 ---
 
 
-## I. Introduction
+## <font color="#2A86BF">I. Introduction</font>
 
 <dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> 
 
@@ -69,7 +69,7 @@
 ---
 
 
-## II. Getting Started
+## <font color="#2A86BF">II. Getting Started</font>
 ### 2.1 Hardware Prerequisites
   <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd>
   - CPU: Dual-core processor, 2 GHz or higher<br/>
@@ -92,7 +92,7 @@
 ---
 
 
-## III. Using the Payroll System
+## <font color="#2A86BF">III. Using the Payroll System</font>
 ### 3.1 Secure Login Procedures
   <dd>Ensure that your login credentials are kept confidential. To log in:</dd>
   - Enter your unique username, typically your company email.<br/>
@@ -114,10 +114,10 @@
 ---
 
 
-## IV. Technical Information
+## <font color="#2A86BF">IV. Technical Information</font>
 ### 4.1 Use Case Diagram
 ![Employee Use Case Diagram](https://github.com/iarenal/group2payrollsystem/blob/main/image/Use%20Case_Employee.png)<br/>
-_###### <font color="red">Figure 1: Employee Use Case Diagram</font>_
+###### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
 
