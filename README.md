@@ -51,7 +51,7 @@
       
 ### 1.2 Navigating the User Guide<br/>  
   <dd>This section provides comprehensive instructions and guidelines to help users maximize the benefits of the user guide, enhancing their understanding and proficiency with the MotorPH Payroll System. Below are key components and instructions included in this section:</dd><br/>
-        - **a. Table of Contents (TOC) Overview:**<br/>      
+  **a. Table of Contents (TOC) Overview:**<br/>      
   - The Table of Contents (TOC) acts as a roadmap, enabling users to quickly locate specific topics, sections, or functionalities within the user guide.<br/>
   - Users can navigate the document by clicking on the titles or headings in the TOC, facilitating easy access to relevant information.<br/>
 
@@ -63,7 +63,17 @@
   **c. Step-by-Step Instructions**<br/>      
   - Detailed step-by-step instructions are provided throughout the user guide, guiding users through various tasks, processes, and workflows related to the MotorPH Payroll System.<br/>
   - Users should follow the sequential instructions outlined in each section to perform tasks accurately and efficiently.<br/>
- 
+
+## 2. Getting Started
+### 2.1 Hardware Prerequisites
+  <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd><br/>
+  - CPU: Dual-core processor, 2 GHz or higher<br/>
+  - RAM: 4 GB or higher<br/>
+  - Hard Drive: At least 2 GB of free space<br/>
+  - Display: 1024x768 screen resolution<br/>
+  
+### 2.2 
+### 2.3 
 
 
 
