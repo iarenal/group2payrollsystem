@@ -146,7 +146,6 @@
 #### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
 
 ![Use Case_System Admin](https://github.com/iarenal/group2payrollsystem/assets/157627486/de5cefd4-adff-4577-8814-0604e423867f)
-
 #### _<font color="red">Figure 3: System Admin Use Case Diagram</font>_
 
 ### 4.2 Class Diagram
