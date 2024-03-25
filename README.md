@@ -63,17 +63,48 @@
   **c. Step-by-Step Instructions**<br/>      
   - Detailed step-by-step instructions are provided throughout the user guide, guiding users through various tasks, processes, and workflows related to the MotorPH Payroll System.<br/>
   - Users should follow the sequential instructions outlined in each section to perform tasks accurately and efficiently.<br/>
-
+---
 ## 2. Getting Started
 ### 2.1 Hardware Prerequisites
-  <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd><br/>
+  <dd>Before you begin, ensure that your computer meets these minimum hardware requirements:</dd>
   - CPU: Dual-core processor, 2 GHz or higher<br/>
   - RAM: 4 GB or higher<br/>
   - Hard Drive: At least 2 GB of free space<br/>
   - Display: 1024x768 screen resolution<br/>
   
-### 2.2 
-### 2.3 
+### 2.2 Software Prerequisites
+  <dd>The system runs on the following software environments:</dd>
+  - Operating System: Windows 7/8/10, macOS X, or any Linux distribution<br/>
+  - Web Browser: Latest versions of Chrome, Firefox, Safari, or Edge<br/>
+  - PDF Reader: For viewing reports and documentation<br/>
+  
+### 2.3 Accessing The System
+  <dd>To access the MotorPH Payroll System:</dd>
+  - Connect to the internet with a stable connection.<br/>
+  - Open your web browser and navigate to the MotorPH Payroll System login page.<br/>
+  - Bookmark the page for easy access in the future.<br/>
+---
+
+## 3. Using the Payroll System
+### 3.1 Secure Login Procedures
+  <dd>Ensure that your login credentials are kept confidential. To log in:</dd>
+  - Enter your unique username, typically your company email.<br/>
+  - Type in your password, which should be a combination of letters and numbers for security.<br/>
+  - If you forget your password, use the 'Forgot Password' link to reset it via your registered email.<br/>
+  
+### 3.2 Salary and Deduction Calculations<br/>
+  - The system will automatically calculate your salary based on the number of hours worked and your hourly rate.<br/>
+  - Deductions for SSS, Philhealth, and Pag-ibig contributions are computed according to the latest government-mandated rates.<br/>
+  - Taxes are withheld based on your taxable income, following the latest tax brackets.<br/>
+  
+### 3.3 Leave Applications
+  <dd>To apply for a leave:</dd>
+  - Navigate to the 'Leave Applications' section.<br/>
+  - Select the type of leave: Sick, Emergency, or Vacation.<br/>
+  - Fill out the form with dates and reasons for your leave.<br/>
+  - Submit your application; it will be sent to your manager for approval.<br/>
+---
+
 
 
 
