@@ -4,7 +4,7 @@
 
 #### <font color="red">Table of Contents</font>
 
-##### I. Introduction
+##### I. [Introduction] (https://tinyurl.com/mrvbd26u)
 ##### 1.1 User Roles<br/>
 ##### 1.2 Navigating the User Guide<br/>
   
