@@ -130,7 +130,7 @@
 
 ### 4.2 Class Diagram
 ### 4.3 Test Cases
-#### Internal Test <br/>
+#### Internal Tests <br/>
 ##### _<font color="red">Functionality Test </font>_
 ![Internal 1](https://github.com/iarenal/group2payrollsystem/assets/157627486/99770de5-b2c3-4093-bd6b-a37d708cb4f5)
 ![Internal 2](https://github.com/iarenal/group2payrollsystem/assets/157627486/43c6aac7-fcca-426b-af95-1b4cba9ef536)
@@ -139,6 +139,27 @@
 ![Internal 5](https://github.com/iarenal/group2payrollsystem/assets/157627486/15419d28-d3be-44cb-996f-35a643cf6b54)
 ![Internal 6](https://github.com/iarenal/group2payrollsystem/assets/157627486/22e98fa2-2f51-430e-aeea-82df64ba1046)
 ![Internal 7](https://github.com/iarenal/group2payrollsystem/assets/157627486/2425e128-1a4f-449e-8485-aa3006390743)
+
+##### _<font color="red">Negative Test </font>_
+![Internal 8](https://github.com/iarenal/group2payrollsystem/assets/157627486/df430f93-606a-4623-89b2-b21db4639ab1)
+![Internal 9](https://github.com/iarenal/group2payrollsystem/assets/157627486/9a0e6221-f2b9-4027-ae43-1600975657cd)
+![Internal 10](https://github.com/iarenal/group2payrollsystem/assets/157627486/2a571935-7359-4316-b9aa-a7d0c1584e5e)
+
+##### _<font color="red">Security Test </font>_
+![Internal 11_Security](https://github.com/iarenal/group2payrollsystem/assets/157627486/ff37026e-db23-4ad9-9bb4-e430eb7e5c31)
+
+##### _<font color="red">Data Validation Test </font>_
+![Internal 12_Data Validation](https://github.com/iarenal/group2payrollsystem/assets/157627486/d231e468-44ee-408a-9506-a36bc0b52908)
+
+##### _<font color="red">Usability Test </font>_
+![Internal 13_Usability](https://github.com/iarenal/group2payrollsystem/assets/157627486/5e5e7610-a2e6-472a-ae48-db3b7be6e398)
+
+#### External Tests <br/>
+##### _<font color="red">Functionality Test </font>_
+##### _<font color="red">Negative Test </font>_
+##### _<font color="red">Security Test </font>_
+##### _<font color="red">Data Validation Test </font>_
+##### _<font color="red">Usability Test </font>_
 
 
 
