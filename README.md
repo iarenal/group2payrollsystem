@@ -124,7 +124,7 @@
 
 ###### _<font color="red">Figure 2: HR Use Case Diagram</font>_
 
-![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/d3910a0a-548e-4700-b029-712975474427)
+![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/c02c6e3c-21a7-43b8-bc59-cede790a9135)
 
 ###### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
 
