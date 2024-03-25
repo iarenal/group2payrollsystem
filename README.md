@@ -120,8 +120,11 @@
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
 ##### The diagram above shows the Employee’s interaction inside the payroll system.
 ##### * Actions includes the following: 
-#####  a. Log In: 
-##### > USer
+#####  **a. Log In:** Employee’s start by logging into the system.
+#####  **b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.
+#####  **c. Profile View (includes viewing of Leave Credits and Request Status, Salary History, & Time Record):** An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. 
+#####  **d. Submit Overtime and Leave Requests: ** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
+
 --
 
 ![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/fa6cb898-c32f-4a93-813d-ee5fe3a619cf)
