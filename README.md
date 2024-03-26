@@ -105,11 +105,53 @@
 
   ![Successful Login](https://github.com/iarenal/group2payrollsystem/assets/157627486/98b61d4e-eb93-47d7-ae20-1645f3cf1194)
 
+
+  <dt>Authentication (Unsuccessful):</dt>
+  - Logging in with incorrect credentials (e.g., wrong username or password).<br/>
+  - Click on the “Login” button.<br/>
+  - The system should display an error message indicating that the login attempt failed due to invalid credentials.<br/>
+  - The system does not grant access to the dashboard or interface with incorrect login details.<br/>
   
-### 3.2 Salary and Deduction Calculations<br/>
-  - The system will automatically calculate your salary based on the number of hours worked and your hourly rate.<br/>
-  - Deductions for SSS, Philhealth, and Pag-ibig contributions are computed according to the latest government-mandated rates.<br/>
-  - Taxes are withheld based on your taxable income, following the latest tax brackets.<br/>
+ ![Unsuccessful Login](https://github.com/iarenal/group2payrollsystem/assets/157627486/54229bdb-fed0-462b-a2a5-5180df11512c)
+
+  
+  <dt>Forgot Password:</dt>
+  - If you forget your password, click on the “Forgot Password” link on the login page.<br/>
+  - Enter your registered email address and click _Submit_<br/>
+  - Another prompt will appear to let you know that an email has been sent to your account to reset your password.<br/>
+
+  ![Forgot Password](https://github.com/iarenal/group2payrollsystem/assets/157627486/f3e1b5c6-61cd-4423-beef-321985fb4739)
+
+  
+### 3.2 Employee Information Management<br/>
+  <dt>Add / View / Edit / Delete Employee Information:</dt>
+  - Log in as HR. <br/>
+  - Click the Employees tab.<br/>
+  - _For Adding New Employee:_<br/>
+  - Navigate to the Add New Employee Page/Tab.<br/>
+  - Fill in all required fields with valid data.<br/>
+  - Click on the “Save” button.<br/>
+  - Confirm successful save with a pop-up message.<br/>
+  - Click “Close” to return to the employee list page.<br/>
+  
+  - _For Viewing Employee Information:_<br/>
+  - Highlight/select an employee’s data on the table.<br/>
+  - Click on the “View Employee Information” button.<br/>
+  - Review the displayed employee’s information.<br/>
+  - Click “Close” to return to the employee list page.<br/>
+
+  - _For Editing Employee Information:_<br/>
+  - Highlight/select an employee’s data.<br/>
+  - Click on the “Edit Employee Information” button.<br/>
+  - Make necessary modifications to the employee’s details.<br/>
+  - Click on the “Save” button to confirm changes.<br/>
+  - Optionally, click “Cancel” to discard changes and return to the employee list page.<br/>
+
+  - _For Deleting Employee Information:_<br/>
+  - Highlight/select an employee’s data.<br/>
+  - Click on the “Delete Employee” button.<br/>
+  - Confirm deletion by clicking “Yes” in the prompt.<br/>
+  - Verify successful deletion with a confirmation prompt.<br/>
   
 ### 3.3 Leave Approval and Application
   <dd>To apply for a leave:</dd>
