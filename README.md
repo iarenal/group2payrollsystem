@@ -1,4 +1,4 @@
-![Approved Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/94f48a45-bfa5-4595-974f-10c56c249f6e)
+
 # <font color="#2A86BF">MotorPH Payroll System Documentation</font> <br/>
 
 
@@ -475,10 +475,38 @@
 
 #### External Tests <br/>
 ##### _<font color="red">Functionality Test </font>_
+![External 1](https://github.com/iarenal/group2payrollsystem/assets/157627486/160ef84e-23b7-43da-bac2-f9075b803667)
+![External 2](https://github.com/iarenal/group2payrollsystem/assets/157627486/684e5b9f-61db-462b-9087-f51dbcd37dee)
+![External 3](https://github.com/iarenal/group2payrollsystem/assets/157627486/33b148e4-261e-43be-9f7a-c1ee53bd4dcb)
+![External 4](https://github.com/iarenal/group2payrollsystem/assets/157627486/81d08063-3149-45eb-aeba-05687963bf06)
+![External 5](https://github.com/iarenal/group2payrollsystem/assets/157627486/9afb8292-075a-4d16-a00b-c7fb04c4ccb8)
+![External 6](https://github.com/iarenal/group2payrollsystem/assets/157627486/6ef3dfa8-d36d-4a90-ae7e-843dd53398a4)
+![External 7](https://github.com/iarenal/group2payrollsystem/assets/157627486/ac2e0acc-a603-4001-ba28-f2d0fdf2e6d9)
+![External 8](https://github.com/iarenal/group2payrollsystem/assets/157627486/919f3462-82b4-4648-a2e3-855d429a1a75)
+![External 9](https://github.com/iarenal/group2payrollsystem/assets/157627486/e8a2af5d-e215-4e6c-a595-fd0dfce90add)
+![External 10](https://github.com/iarenal/group2payrollsystem/assets/157627486/ade1d214-b185-4ef7-9062-4c28a0a1ac58)
+![External 11](https://github.com/iarenal/group2payrollsystem/assets/157627486/39432684-227b-43c7-a274-164c7ab08563)
+![External 12](https://github.com/iarenal/group2payrollsystem/assets/157627486/1e49ede9-b144-40bf-92f2-31f28b2e69c9)
+![External 13](https://github.com/iarenal/group2payrollsystem/assets/157627486/64ad7a59-49ae-4d02-bd8f-fa1693329116)
+![External 14](https://github.com/iarenal/group2payrollsystem/assets/157627486/a213f32b-337b-4c35-a782-f4f710df19a3)
+![External 15](https://github.com/iarenal/group2payrollsystem/assets/157627486/3e0bf20a-753e-4a0a-acee-4d64a2a6bee1)
+
 ##### _<font color="red">Negative Test </font>_
+![External 16 Negative](https://github.com/iarenal/group2payrollsystem/assets/157627486/4bf46887-1849-4735-a18d-7b5a50263c47)
+![External 17](https://github.com/iarenal/group2payrollsystem/assets/157627486/a8081de9-a43d-4671-ad8b-ac2972b275a0)
+![External 18](https://github.com/iarenal/group2payrollsystem/assets/157627486/8a531204-706f-453c-b600-6196e9cc611c)
+![External 19](https://github.com/iarenal/group2payrollsystem/assets/157627486/c305037c-3063-4a15-9ed2-fa1d8aecda59)
+![External 20](https://github.com/iarenal/group2payrollsystem/assets/157627486/e759dc99-eeb4-431e-b964-9d381dccf64d)
+
 ##### _<font color="red">Security Test </font>_
+![External_Security](https://github.com/iarenal/group2payrollsystem/assets/157627486/1b05dfbd-07a1-44fd-8a78-d5bec6b8c746)
+
 ##### _<font color="red">Data Validation Test </font>_
+![External_Data](https://github.com/iarenal/group2payrollsystem/assets/157627486/53222e44-e27e-4982-8da3-07ab534cdd88)
+
 ##### _<font color="red">Usability Test </font>_
+![External_Usability](https://github.com/iarenal/group2payrollsystem/assets/157627486/adec0cfe-2241-4257-a290-cafb7edb426a)
+
 
 
 
