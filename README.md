@@ -126,6 +126,7 @@
 ### 3.2 Employee Information Management<br/>
 
   <dt>Add / View / Edit / Delete Employee Information:</dt>
+  
   - Log in as HR. <br/>
   - Click the Employees tab.<br/>
   
@@ -167,7 +168,7 @@
   ![Delete](https://github.com/iarenal/group2payrollsystem/assets/157627486/7f7ad99d-75c2-4a1b-ba83-f8fe742848a7)
 
   
-### 3.3 Attendance Record and Management
+### 3.3 Attendance Record and Management<br/>
   <dt>Employee Logs Time in and Time out Process:</dt>
   
   - Log in as Employee. <br/>
@@ -176,7 +177,17 @@
   - Click on the Attendance button inside.<br/>
   - Fill out the form with dates and reasons for your leave.<br/>
   - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
-    - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
+    - After clicking “Time In,” a successful time-in message should be displayed.<br/>
+    - After clicking “Time Out,” a successful time-out message should be displayed.<br/>
+    - Once “Time In” or “Time Out” is clicked, it should become unclickable.<br/>
+    - The time format for Time In and Time Out should be in “hh:mm.<br/>
+    - Worked hours and overtime hours should be displayed in the text field.<br/>
+    - Click on the “Close” button to return.
+  - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
+  
+  <dt>Employee Access to Attendance Summary:</dt>
+  
+  - Log in as Employee. <br/>
  
 ---
 
