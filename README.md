@@ -136,21 +136,18 @@
   - Confirm successful save with a pop-up message.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
-  
-
-https://github.com/iarenal/group2payrollsystem/assets/157627486/140103af-8e3b-4a11-8c11-c901a9dcfc29
+  ![Adding New Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65267c47-957b-443b-9254-6282e36d4157)
 
 
-  
   - **_For Viewing Employee Information:_**<br/>
   - Highlight/select an employee’s data on the table.<br/>
   - Click on the “View Employee Information” button.<br/>
   - Review the displayed employee’s information.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
+  ![View Employee Info](https://github.com/iarenal/group2payrollsystem/assets/157627486/43356a0b-cb48-4045-9edf-d581e81eda80)
+
   
-
-
   - **_For Editing Employee Information:_**<br/>
   - Highlight/select an employee’s data.<br/>
   - Click on the “Edit Employee Information” button.<br/>
@@ -158,11 +155,17 @@ https://github.com/iarenal/group2payrollsystem/assets/157627486/140103af-8e3b-4a
   - Click on the “Save” button to confirm changes.<br/>
   - Optionally, click “Cancel” to discard changes and return to the employee list page.<br/>
 
+  ![Edit](https://github.com/iarenal/group2payrollsystem/assets/157627486/0357419c-770a-411a-9e0a-94885850d785)
+
+
   - **_For Deleting Employee Information:_**<br/>
   - Highlight/select an employee’s data.<br/>
   - Click on the “Delete Employee” button.<br/>
   - Confirm deletion by clicking “Yes” in the prompt.<br/>
   - Verify successful deletion with a confirmation prompt.<br/>
+
+  ![Delete](https://github.com/iarenal/group2payrollsystem/assets/157627486/7f7ad99d-75c2-4a1b-ba83-f8fe742848a7)
+
   
 ### 3.3 Leave Approval and Application
   <dd>To apply for a leave:</dd>
