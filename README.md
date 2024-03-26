@@ -167,12 +167,16 @@
   ![Delete](https://github.com/iarenal/group2payrollsystem/assets/157627486/7f7ad99d-75c2-4a1b-ba83-f8fe742848a7)
 
   
-### 3.3 Leave Approval and Application
-  <dd>To apply for a leave:</dd>
-  - Navigate to the 'Leave Applications' section.<br/>
-  - Select the type of leave: Sick, Emergency, or Vacation.<br/>
+### 3.3 Attendance Record and Management
+  <dt>Employee Logs Time in and Time out Process:</dt>
+  
+  - Log in as Employee. <br/>
+  - Click the Employees tab.<br/>
+  - Navigate to the Attendance Tab.<br/>
+  - Click on the Attendance button inside.<br/>
   - Fill out the form with dates and reasons for your leave.<br/>
-  - Submit your application; it will be sent to your manager for approval.<br/>
+  - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
+    - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
  
 ---
 
