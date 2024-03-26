@@ -27,7 +27,7 @@
 
 ## <font color="#2A86BF">I. Introduction</font>
 
-<dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> 
+<dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> <br/>
 
  <dd> By centralizing these tasks into one user-friendly interface, the MotorPH Payroll System aims to enhance efficiency, accuracy, and transparency in payroll operations. With intuitive navigation and functionalities, the system provides MotorPH with a reliable solution for managing payroll effectively.</dd><br/>
  
@@ -119,8 +119,8 @@
 ![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65a158dd-be99-46be-8c67-4f90fae7979a)<br/>
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
 ##### The diagram above shows the Employee’s interaction inside the payroll system.
-##### * Actions includes the following: 
-#####  **a. Log In:** Employee’s start by logging into the system.
+<dt>Actions includes the following: </dt>
+ <dd>  **a. Log In:** Employee’s start by logging into the system.</dd>
 #####  **b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.
 #####  **c. Profile View (includes viewing of Leave Credits and Request Status, Salary History, & Time Record):** An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. 
 #####  **d. Submit Overtime and Leave Requests:** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
