@@ -124,11 +124,12 @@
 
   
 ### 3.2 Employee Information Management<br/>
+
   <dt>Add / View / Edit / Delete Employee Information:</dt>
   - Log in as HR. <br/>
   - Click the Employees tab.<br/>
   
-  - <font color="red">_For Adding New Employee:_</font><br/>
+  - **_For Adding New Employee:_**<br/>
   - Navigate to the Add New Employee Page/Tab.<br/>
   - Fill in all required fields with valid data.<br/>
   - Click on the “Save” button.<br/>
