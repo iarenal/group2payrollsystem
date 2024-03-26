@@ -1,4 +1,4 @@
-
+![Approved Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/94f48a45-bfa5-4595-974f-10c56c249f6e)
 # <font color="#2A86BF">MotorPH Payroll System Documentation</font> <br/>
 
 
@@ -146,7 +146,7 @@
   - Review the displayed employee’s information.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
-  ![View](https://github.com/iarenal/group2payrollsystem/assets/157627486/c92e097f-70e1-4b7e-8ae5-6492b26dbd19)
+  ![View Employee Profile](https://github.com/iarenal/group2payrollsystem/assets/157627486/c2a1ec8e-8ca1-46d5-92bc-6900eef944df)
 
   
   - **_For Editing Employee Information:_**<br/>
@@ -289,6 +289,9 @@
   - Choose either the “View Leave” or “View Overtime” button based on the request type.<br/>
   - Click on the desired status (Pending, Approved, Rejected) in the dropdown menu to filter requests accordingly.<br/>
 
+  ![Filtering Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/6a1385f1-3a5a-4ebd-b59d-94b6e566f519)
+
+
   <dt>Handling Pending, Approved, and Rejected Requests</dt>
   
   - Log in as an HR user. <br/>
@@ -302,6 +305,9 @@
   - Take action (Approve/Reject) as necessary.<br/>
   - Click the “Back” button to return to the request page.<br/>
 
+  ![Pending Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/408703c8-460b-49f1-9b2a-dfac90f17059)
+
+
   - **_For Approved Requests:_**<br/>
   - Choose “Leave” or “Overtime” based on the request type.<br/>
   - Select “Approved” from the dropdown menu.<br/>
@@ -309,6 +315,9 @@
   - View details by highlighting a specific approved request and clicking “View Request Form”.<br/>
   - Note that the approval buttons are disabled as the request is already approved.<br/>
   - Click the “Back” button to return to the request page.<br/>
+
+  ![Approved Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/ec2ecd90-9fa3-4c48-9d18-17df726cee58)
+
 
   - **_For Rejected Requests:_**<br/>
   - Choose “Leave” or “Overtime” based on the request type.<br/>
@@ -318,11 +327,8 @@
   - Note that the approval buttons are disabled as the request is already approved.<br/>
   - Click the “Back” button to return to the request page.<br/>
 
-  <dt>Approving and Rejecting Requests</dt>
-  
-  - Follow the steps for handling pending requests and choose a pending request. <br/>
-  - In the request form, click on the “Approve” button to approve and click on the “Reject” button to reject the request. <br/>
-  - Confirm the approval/rejection action.<br/>
+  ![Rejected Requests](https://github.com/iarenal/group2payrollsystem/assets/157627486/389f042a-78dc-4f89-a71e-058453dda47f)
+
   
 ### 3.6 Account Management<br/>
   <dt>Find User Account:</dt>
@@ -332,6 +338,9 @@
   - Click the Find Account button.<br/>
   - Verify successful retrieval of user account details.<br/>
   - Ensure prompts appear for incomplete data.<br/>
+
+  ![Find User Account](https://github.com/iarenal/group2payrollsystem/assets/157627486/c9a7b85e-2d75-434e-8248-a12c86f46404)
+
   
   <dt>Add New User Account:</dt>
   
@@ -343,6 +352,9 @@
   - Verify that the Save button is disabled after saving.<br/>
   - Click Return to go back to the accounts list page.<br/>
 
+  ![Add New User Account](https://github.com/iarenal/group2payrollsystem/assets/157627486/642c2adf-fbfe-470e-8c34-fd051bcb6848)
+
+
   <dt>Edit User Access / Account:</dt>
   
   - Log in as a System Admin user. <br/>
@@ -351,6 +363,9 @@
   - Modify the password and access level as needed.<br/>
   - Click Save and confirm the changes.<br/>
   - Ensure confirmation prompts appear and functionality to cancel changes.<br/>
+
+  ![Edit User Access  Account](https://github.com/iarenal/group2payrollsystem/assets/157627486/07ca49c0-c514-47a2-8699-00ba59fb26e7)
+
   
   <dt>Deactivate User Account:</dt>
   
@@ -361,6 +376,8 @@
   - Click Deactivate and confirm the action.<br/>
   - Verify successful deactivation with a confirmation prompt.<br/>
   - Ensure options to cancel the deactivation process.<br/>
+
+  ![Deactivate User Account](https://github.com/iarenal/group2payrollsystem/assets/157627486/fc09c479-789a-4ccb-8206-93b61f8ce5d5)
 
 
 ---
