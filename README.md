@@ -27,7 +27,7 @@
 
 ## <font color="#2A86BF">I. Introduction</font>
 
-<dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> <br/>
+<dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> 
 
  <dd> By centralizing these tasks into one user-friendly interface, the MotorPH Payroll System aims to enhance efficiency, accuracy, and transparency in payroll operations. With intuitive navigation and functionalities, the system provides MotorPH with a reliable solution for managing payroll effectively.</dd><br/>
  
@@ -118,35 +118,62 @@
 ### 4.1 Use Case Diagram
 ![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65a158dd-be99-46be-8c67-4f90fae7979a)<br/>
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
-##### The diagram above shows the Employee’s interaction inside the payroll system.
+##### The diagram above shows the _Employee’s_ interaction inside the payroll system.
 ##### Actions includes the following: 
-#####  a. Log In: Employee’s start by logging into the system.
-#####  *b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.</dd><br/>
-#####  **c. Profile View **(includes viewing of Leave Credits and Request Status, Salary History, & Time Record): An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. </dd><br/>
-##### d. Submit Overtime and Leave Requests: Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.</dd><br/>
+#####  **a. Log In:** Employee’s start by logging into the system.
+#####  **b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.
+#####  **c. Profile View (includes viewing of Leave Credits and Request Status, Salary History, & Time Record):** An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned.
+##### **d. Submit Overtime and Leave Requests:** Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.
 
 ---
 
 
 ![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/2d972cef-b65a-49e3-a3c7-fe9d4ddb9fc5)
 #### _<font color="red">Figure 2: HR Use Case Diagram</font>_
-##### The diagram above shows the HR user’s interaction inside the payroll system.
+##### The diagram above shows the _HR_ user’s interaction inside the payroll system.
 ##### Actions includes the following: 
 #####  **a. Log In:** HR user starts by logging into the system.
 #####  **b. View Employee Information:** This action allows user to view employee profile and records.
 #####  **c. Add New Employee:** This action allows user to add new employee in the database.
 #####  **d. Edit Employee Information:** This action allows user to edit employee information. 
 #####  **d. Delete Employee Information:** This action allows user to delete employee information. 
-#####  **e. Approve / Reject Requests:** This action allows user to manage employee requests. 
+#####  **e. Manage Employee's Data and Records:** This action allows the overall management of employee's data and records. 
+#####  **f. Approve / Reject Requests:** This action allows user to manage employee requests. 
+
+
 
 ---
 
 
 ![Use Case_Payroll](https://github.com/iarenal/group2payrollsystem/assets/157627486/4d708b91-dc01-4389-9ae5-95bc42385b13)
 #### _<font color="red">Figure 3: Payroll Use Case Diagram</font>_
+##### The diagram above shows the _Payroll_ user’s interaction inside the payroll system.
+##### Actions includes the following: 
+#####  **a. Log In:** Payroll user starts by logging into the system.
+#####  **b. View Employee Data and Records:** This action allows user to view employee profile and records.
+#####  **c. Add New Invoice:** This action allows user to add new invoice file into the database.
+#####  **d. View Invoice:** This action allows user to view employee's invoice. 
+#####  **d. Delete Invoice:** This action allows user to delete employee's invoice. 
+#####  **e. View Time Records:** This action allows user to view employee's time records.
+#####  **f. Manage Invoice:** This action allows the overall management of employee's invoices. 
+#####  **g. Calculate Employee:** This action allows user to calculate employee's salary with the help of the system's automation on calculation. 
+#####  **h. Generate Employee Payslip:** This action allows user to generate employee's pay invoices.
+
+
+---
 
 ![Use Case_System Admin](https://github.com/iarenal/group2payrollsystem/assets/157627486/de5cefd4-adff-4577-8814-0604e423867f)
 #### _<font color="red">Figure 3: System Admin Use Case Diagram</font>_
+##### The diagram above shows the _System Admin_ user’s interaction inside the payroll system.
+##### Actions includes the following: 
+#####  **a. Log In:** System user starts by logging into the system.
+#####  **b. Find Account:** This action allows user to find account users.
+#####  **c. Add New User Account:** This action allows user to add new user account inside the database.
+#####  **d. Edit Account:** This action allows user to edit user accounts. 
+#####  **d. Deactivate Account:** This action allows user to deactivate user accounts. 
+#####  **e. Manage User Accounts:** This action allows the overall management of user accounts. 
+
+---
 
 ### 4.2 Class Diagram
 ![ClassDiagram drawio](https://github.com/iarenal/group2payrollsystem/assets/157627486/7dc3aaad-9cab-449f-8f87-29abbd664e98)
