@@ -229,7 +229,8 @@
   - Click on the “Save” button to save the invoice details.
   - Click on the “Close” button to return to the Invoice Page. <br/>
 
-  
+  ![Add Invoice](https://github.com/iarenal/group2payrollsystem/assets/157627486/f3ec5fd5-68a4-42b3-9e06-8d323f320348)
+
     
   <dt>View Invoices:</dt>
   
@@ -241,6 +242,9 @@
   - Click on the “Close” button to close the view invoice page and return to the invoices list.<br/>
   - Automatic Worked Hours Calculation:<br/>
 
+  ![View Invoice](https://github.com/iarenal/group2payrollsystem/assets/157627486/20a1911b-2397-4b7a-aa60-02b26f7c8ae7)
+
+
   <dt>Delete Invoices:</dt>
   
   - Log in as a Payroll Administrator. <br/>
@@ -251,6 +255,9 @@
   - Confirm the deletion action when prompted by the system.<br/>
   - Click on the “Close” button to return to the invoices list.<br/>
 
+  ![Delete Invoice](https://github.com/iarenal/group2payrollsystem/assets/157627486/9cd24a88-bb1b-4604-b471-3b8b7ea926eb)
+
+  
 ### 3.5 Overtime and Leave Approval and Application<br/>
   <dt>Employee Request Submission Process (Leave and Overtime):</dt>
   
@@ -270,6 +277,10 @@
   - You will receive a prompt confirming that your request has been successfully submitted.<br/>
   - The request button will be disabled after submission, but the request form will remain open for reference or modifications.<br/>
   - You can navigate back to the request page anytime by clicking the “Back” button to view your submitted requests or make additional requests.<br/>
+
+  ![Leave Request Submission](https://github.com/iarenal/group2payrollsystem/assets/157627486/30d3515d-16aa-4fa8-ae71-757d0490ec9b)
+  ![Overtime Request Submission](https://github.com/iarenal/group2payrollsystem/assets/157627486/1e545deb-bf1a-4e05-8113-3547371456d4)
+
 
   <dt>Filtering Leave and Overtime Requests</dt>
   
