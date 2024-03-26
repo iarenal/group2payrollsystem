@@ -185,10 +185,163 @@
     - Click on the “Close” button to return.
   - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
   
-  <dt>Employee Access to Attendance Summary:</dt>
+   <dt>Employee Access to Attendance Summary:</dt>
+  
+   - Log in as Employee. <br/>
+   - Navigate to the Attendance Tab. <br/>
+   - Click on the “View All” button. <br/>
+   - Select the desired month from the dropdown menu. <br/>
+   - The summary of employee attendance, including the date, overtime, pay period, time in and out, will be displayed in a table format. <br/>
+
+   
+### 3.4 Salary and Deduction Calculations<br/>
+  <dt>Employee Views Payroll Details:</dt>
   
   - Log in as Employee. <br/>
- 
+  - Navigate to the Payroll Tab.<br/>
+  - Navigate to the Attendance Tab.<br/>
+  - Click on the “View Details” button.<br/>
+  - This action will prompt the system to display detailed information related to the highlighted payroll data.<br/>
+  - Click on the  “Close” button to return to the main payroll page.<br/>
+
+  <dt>Add Invoice:</dt>
+  
+  - Log in as a Payroll Administrator. <br/>
+  - Navigate to the Payroll tab from the main menu.<br/>
+  - Access the “Invoices” tab.<br/>
+  - Highlight an employee from the list and click the “Invoices” button.<br/>
+  - Click on the “Add Invoice” button.<br/>
+  - Click the Generate Button. <br/>
+  - Automatic Worked Hours Calculation:<br/>
+   - The system automatically shows the hourly rate per employee based on the stored data. <br/>
+   - The system will input the stored total hours worked and overtime hours from attendance.<br/>
+  - Automatic Deductions and Allowances:<br/>
+   - Deductions such as income tax withholdings, SSS, Philhealth and Pagibig, and allowances like phone and clothing allowance and rice subsidy are automatically computed and added to the invoice.<br/>
+  - The calculated earnings, deductions, allowances, and the resulting take-home pay for the employee will show.<br/>
+  - Click on the “Save” button to save the invoice details.
+  - Click on the “Close” button to return to the Invoice Page. <br/>
+    
+  <dt>View Invoices:</dt>
+  
+  - Log in as a Payroll Administrator. <br/>
+  - Navigate to the Payroll tab from the main menu.<br/>
+  - Access the “Invoices” tab.<br/>
+  - Highlight an employee from the list and click the “View Invoices” button.<br/>
+  - The system will display the details of the selected invoice, including earnings, deductions, allowances, and the calculated take-home pay.<br/>
+  - Click on the “Close” button to close the view invoice page and return to the invoices list.<br/>
+  - Automatic Worked Hours Calculation:<br/>
+
+  <dt>Delete Invoices:</dt>
+  
+  - Log in as a Payroll Administrator. <br/>
+  - Navigate to the Payroll tab from the main menu.<br/>
+  - Access the “Invoices” tab.<br/>
+  - In the “Invoices” tab, locate the invoice you wish to delete from the list of invoices displayed.<br/>
+  - Click on the “Delete” button. <br/>
+  - Confirm the deletion action when prompted by the system.<br/>
+  - Click on the “Close” button to return to the invoices list.<br/>
+
+### 3.5 Overtime and Leave Approval and Application<br/>
+  <dt>Employee Request Submission Process (Leave and Overtime):</dt>
+  
+  - Log in as Employee. <br/>
+  - Navigate to the “Requests” tab from the main menu.<br/>
+  - Select the type of request you want to submit (e.g., Leave or Overtime) from the dropdown menu.<br/>
+  - If you need to search for specific details, enter the relevant information in the search bar (e.g., pay period for overtime or leave type for leave requests).<br/>
+  - Choose either “Leave” or “Overtime” from the dropdown menu in the Request tab.<br/>
+  - Click on the appropriate button to file your request (e.g., “File Leave Request” or “File Overtime Request”).<br/>
+  - Fill in all the required fields with accurate and valid data related to your request.<br/>
+  - Click the “Submit Request” button to send your request for processing.<br/>
+  - After submission, you can go back to the request page by clicking the “Back” button.<br/>
+
+  <dt>Confirmation and Notifications:</dt>
+  
+  - Upon successful submission of your request, a confirmation prompt will appear asking for your confirmation (“Yes” or “No”).<br/>
+  - You will receive a prompt confirming that your request has been successfully submitted.<br/>
+  - The request button will be disabled after submission, but the request form will remain open for reference or modifications.<br/>
+  - You can navigate back to the request page anytime by clicking the “Back” button to view your submitted requests or make additional requests.<br/>
+
+  <dt>Filtering Leave and Overtime Requests</dt>
+  
+  - Log in as an HR user. <br/>
+  - Navigate to the Requests tab.<br/>
+  - Choose either the “View Leave” or “View Overtime” button based on the request type.<br/>
+  - Click on the desired status (Pending, Approved, Rejected) in the dropdown menu to filter requests accordingly.<br/>
+
+  <dt>Handling Pending, Approved, and Rejected Requests</dt>
+  
+  - Log in as an HR user. <br/>
+  - Navigate to the Requests tab.<br/>
+
+  - **_For Pending Requests:_**<br/>
+  - Choose “Leave” or “Overtime” based on the request type.<br/>
+  - Select “Pending” from the dropdown menu.<br/>
+  - Verify that only pending requests are displayed in the table.<br/>
+  - Highlight a specific pending request and click on “View Request Form” to see details.<br/>
+  - Take action (Approve/Reject) as necessary.<br/>
+  - Click the “Back” button to return to the request page.<br/>
+
+  - **_For Approved Requests:_**<br/>
+  - Choose “Leave” or “Overtime” based on the request type.<br/>
+  - Select “Approved” from the dropdown menu.<br/>
+  - Verify that only approved requests are displayed in the table.<br/>
+  - View details by highlighting a specific approved request and clicking “View Request Form”.<br/>
+  - Note that the approval buttons are disabled as the request is already approved.<br/>
+  - Click the “Back” button to return to the request page.<br/>
+
+  - **_For Rejected Requests:_**<br/>
+  - Choose “Leave” or “Overtime” based on the request type.<br/>
+  - Select “Rejected” from the dropdown menu.<br/>
+  - Verify that only rejected requests are displayed in the table.<br/>
+  - View details by highlighting a specific approved request and clicking “View Request Form”.<br/>
+  - Note that the approval buttons are disabled as the request is already approved.<br/>
+  - Click the “Back” button to return to the request page.<br/>
+
+  <dt>Approving and Rejecting Requests</dt>
+  
+  - Follow the steps for handling pending requests and choose a pending request. <br/>
+  - In the request form, click on the “Approve” button to approve and click on the “Reject” button to reject the request. <br/>
+  - Confirm the approval/rejection action.<br/>
+  
+### 3.6 Account Management<br/>
+  <dt>Find User Account:</dt>
+  
+  - Log in as a System Admin user. <br/>
+  - Enter the Employee # and Last Name in the designated text fields above the user account list.<br/>
+  - Click the Find Account button.<br/>
+  - Verify successful retrieval of user account details.<br/>
+  - Ensure prompts appear for incomplete data.<br/>
+  
+  <dt>Add New User Account:</dt>
+  
+  - Log in as a System Admin user. <br/>
+  - Click the New Account button.<br/>
+  - Type the Employee # and click OK. _Note that the employee number required here is from the newly added profile on the HR's end. If the employee number is non-exsiting, there should be a prompt thats says otherwise_.<br/>
+  - Choose access level from the Access drop-down menu.<br/>
+  - Click Save and confirm the account addition.<br/>
+  - Verify that the Save button is disabled after saving.<br/>
+  - Click Return to go back to the accounts list page.<br/>
+
+  <dt>Edit User Access / Account:</dt>
+  
+  - Log in as a System Admin user. <br/>
+  - Highlight an employee’s data in the table.<br/>
+  - Click Edit Account.<br/>
+  - Modify the password and access level as needed.<br/>
+  - Click Save and confirm the changes.<br/>
+  - Ensure confirmation prompts appear and functionality to cancel changes.<br/>
+  
+  <dt>Deactivate User Account:</dt>
+  
+  - Log in as a System Admin user. <br/>
+  - Enter the employee number and last name in the provided fields.<br/>
+  - Locate the employee account to deactivate.<br/>
+  - Verify successful retrieval of user account details.<br/>
+  - Click Deactivate and confirm the action.<br/>
+  - Verify successful deactivation with a confirmation prompt.<br/>
+  - Ensure options to cancel the deactivation process.<br/>
+
+
 ---
 
 
