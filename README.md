@@ -27,9 +27,10 @@
 
 ## <font color="#2A86BF">I. Introduction</font>
 
-<dd> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </dd> 
+<p> The MotorPH Payroll System modernizes the payroll management experience for MotorPH employees, offering a tailored solution to streamline operations. This system offers a range of features tailored to meet the specific needs of MotorPH, including employee information management, attendance tracking, payroll processing, and request management. </p> 
 
- <dd> By centralizing these tasks into one user-friendly interface, the MotorPH Payroll System aims to enhance efficiency, accuracy, and transparency in payroll operations. With intuitive navigation and functionalities, the system provides MotorPH with a reliable solution for managing payroll effectively.</dd><br/>
+ <p> By centralizing these tasks into one user-friendly interface, the MotorPH Payroll System aims to enhance efficiency, accuracy, and transparency in payroll operations. With intuitive navigation and functionalities, the system provides MotorPH with a reliable solution for managing payroll effectively.</p>
+ 
  
 ### 1.1 User Roles<br/>
    <dd> The MotorPH Payroll System caters to distinct user roles, each with specific functionalities tailored to their responsibilities within the organization. These roles ensure efficient navigation and utilization of the system's features. Below are the user roles:</dd><br/>
@@ -94,10 +95,16 @@
 
 ## <font color="#2A86BF">III. Using the Payroll System</font>
 ### 3.1 Secure Login Procedures
-  <dd>Ensure that your login credentials are kept confidential. To log in:</dd>
-  - Enter your unique username, typically your company email.<br/>
-  - Type in your password, which should be a combination of letters and numbers for security.<br/>
-  - If you forget your password, use the 'Forgot Password' link to reset it via your registered email.<br/>
+  <dt>Enter Credentials:</dt>
+  - In the designated fields of MotorPH Payroll System, enter your username and password.<br/>
+  - Select your employee type from the dropdown menu.<br/>
+  <dt>Authentication (Successful):</dt>
+  - Click on the “Login” button to submit your credentials for authentication.<br/>
+  - The system verifies your login details and redirects you to the appropriate dashboard based on your role (employee, HR, finance, system administrator).<br/>
+  - Upon successful authentication, you are granted access to your dashboard or interface within the MotorPH Payroll System.<br/>
+
+  ![Successful Login](https://github.com/iarenal/group2payrollsystem/assets/157627486/98b61d4e-eb93-47d7-ae20-1645f3cf1194)
+
   
 ### 3.2 Salary and Deduction Calculations<br/>
   - The system will automatically calculate your salary based on the number of hours worked and your hourly rate.<br/>
