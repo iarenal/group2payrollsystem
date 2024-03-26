@@ -137,7 +137,7 @@
   - Confirm successful save with a pop-up message.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
-  ![Adding New Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65267c47-957b-443b-9254-6282e36d4157)
+  ![Add New](https://github.com/iarenal/group2payrollsystem/assets/157627486/3e234756-f0ac-4b37-95d5-b2a87982cc09)
 
 
   - **_For Viewing Employee Information:_**<br/>
@@ -146,7 +146,7 @@
   - Review the displayed employee’s information.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
-  ![View Employee Info](https://github.com/iarenal/group2payrollsystem/assets/157627486/43356a0b-cb48-4045-9edf-d581e81eda80)
+  ![View](https://github.com/iarenal/group2payrollsystem/assets/157627486/c92e097f-70e1-4b7e-8ae5-6492b26dbd19)
 
   
   - **_For Editing Employee Information:_**<br/>
@@ -156,7 +156,7 @@
   - Click on the “Save” button to confirm changes.<br/>
   - Optionally, click “Cancel” to discard changes and return to the employee list page.<br/>
 
-  ![Edit](https://github.com/iarenal/group2payrollsystem/assets/157627486/0357419c-770a-411a-9e0a-94885850d785)
+  ![Uploading Edit.gif…]()
 
 
   - **_For Deleting Employee Information:_**<br/>
@@ -165,7 +165,7 @@
   - Confirm deletion by clicking “Yes” in the prompt.<br/>
   - Verify successful deletion with a confirmation prompt.<br/>
 
-  ![Delete](https://github.com/iarenal/group2payrollsystem/assets/157627486/7f7ad99d-75c2-4a1b-ba83-f8fe742848a7)
+  ![Uploading Delete.gif…]()
 
   
 ### 3.3 Attendance Record and Management<br/>
