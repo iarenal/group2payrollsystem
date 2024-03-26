@@ -118,12 +118,12 @@
 ### 4.1 Use Case Diagram
 ![Use Case_Employee](https://github.com/iarenal/group2payrollsystem/assets/157627486/65a158dd-be99-46be-8c67-4f90fae7979a)<br/>
 #### _<font color="red">Figure 1: Employee Use Case Diagram</font>_
-<dd> The diagram above shows the Employee’s interaction inside the payroll system.</dd> <br/>
-<dt> Actions includes the following: </dt> <br/>
- <dd>  **a. Log In:** Employee’s start by logging into the system.</dd><br/>
- <dd>  **b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.</dd><br/>
- <dd>  **c. Profile View **(includes viewing of Leave Credits and Request Status, Salary History, & Time Record): An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. </dd><br/>
- <dd>  d. Submit Overtime and Leave Requests: Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.</dd><br/>
+##### The diagram above shows the Employee’s interaction inside the payroll system.
+##### Actions includes the following: 
+#####  a. Log In: Employee’s start by logging into the system.
+#####  *b. Time In and Out:** This action records the total hours worked in a day. This action is automatically recorded within the system.</dd><br/>
+#####  **c. Profile View **(includes viewing of Leave Credits and Request Status, Salary History, & Time Record): An employee user doesn’t have the ability to make any changes on their profile, thus, they are only allowed to view those specifics mentioned. </dd><br/>
+##### d. Submit Overtime and Leave Requests: Employee users can submit Overtime and Leave requests which are both subject for approval by the HR user.</dd><br/>
 
 ---
 
@@ -131,7 +131,7 @@
 ![Use Case_HR](https://github.com/iarenal/group2payrollsystem/assets/157627486/2d972cef-b65a-49e3-a3c7-fe9d4ddb9fc5)
 #### _<font color="red">Figure 2: HR Use Case Diagram</font>_
 ##### The diagram above shows the HR user’s interaction inside the payroll system.
-##### * Actions includes the following: 
+##### Actions includes the following: 
 #####  **a. Log In:** HR user starts by logging into the system.
 #####  **b. View Employee Information:** This action allows user to view employee profile and records.
 #####  **c. Add New Employee:** This action allows user to add new employee in the database.
