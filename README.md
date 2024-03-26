@@ -135,21 +135,30 @@
   - Click on the “Save” button.<br/>
   - Confirm successful save with a pop-up message.<br/>
   - Click “Close” to return to the employee list page.<br/>
+
   
-  - _For Viewing Employee Information:_<br/>
+
+https://github.com/iarenal/group2payrollsystem/assets/157627486/140103af-8e3b-4a11-8c11-c901a9dcfc29
+
+
+  
+  - **_For Viewing Employee Information:_**<br/>
   - Highlight/select an employee’s data on the table.<br/>
   - Click on the “View Employee Information” button.<br/>
   - Review the displayed employee’s information.<br/>
   - Click “Close” to return to the employee list page.<br/>
 
-  - _For Editing Employee Information:_<br/>
+  
+
+
+  - **_For Editing Employee Information:_**<br/>
   - Highlight/select an employee’s data.<br/>
   - Click on the “Edit Employee Information” button.<br/>
   - Make necessary modifications to the employee’s details.<br/>
   - Click on the “Save” button to confirm changes.<br/>
   - Optionally, click “Cancel” to discard changes and return to the employee list page.<br/>
 
-  - _For Deleting Employee Information:_<br/>
+  - **_For Deleting Employee Information:_**<br/>
   - Highlight/select an employee’s data.<br/>
   - Click on the “Delete Employee” button.<br/>
   - Confirm deletion by clicking “Yes” in the prompt.<br/>
