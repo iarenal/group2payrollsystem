@@ -449,7 +449,7 @@
 
 
 ### 4.3 Test Cases
-#### Internal Tests <br/>
+#### [Internal Tests](https://docs.google.com/spreadsheets/d/1h1RunFqzGI2kL3C9TDjWmtJdYAhrFnFuUNykfsNUc6M/edit?hl=en&forcehl=1#gid=797353789) <br/>
 ##### _<font color="red">Functionality Test </font>_
 ![Internal 1](https://github.com/iarenal/group2payrollsystem/assets/157627486/99770de5-b2c3-4093-bd6b-a37d708cb4f5)
 ![Internal 2](https://github.com/iarenal/group2payrollsystem/assets/157627486/43c6aac7-fcca-426b-af95-1b4cba9ef536)
