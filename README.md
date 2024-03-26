@@ -184,6 +184,9 @@
     - Worked hours and overtime hours should be displayed in the text field.<br/>
     - Click on the “Close” button to return.
   - Click on the “Time In” button to clock in and “TimeOut” button to clock out.<br/>
+
+  ![Time in and out](https://github.com/iarenal/group2payrollsystem/assets/157627486/48c0f88e-b75b-4fc8-9297-7cdc0b912b7a)
+
   
    <dt>Employee Access to Attendance Summary:</dt>
   
@@ -192,6 +195,8 @@
    - Click on the “View All” button. <br/>
    - Select the desired month from the dropdown menu. <br/>
    - The summary of employee attendance, including the date, overtime, pay period, time in and out, will be displayed in a table format. <br/>
+
+   ![View Attendance Summary](https://github.com/iarenal/group2payrollsystem/assets/157627486/9e9d1527-e151-4280-bde5-cb3272221af5)
 
    
 ### 3.4 Salary and Deduction Calculations<br/>
@@ -203,6 +208,9 @@
   - Click on the “View Details” button.<br/>
   - This action will prompt the system to display detailed information related to the highlighted payroll data.<br/>
   - Click on the  “Close” button to return to the main payroll page.<br/>
+
+  ![Payroll Employee View](https://github.com/iarenal/group2payrollsystem/assets/157627486/946396bb-415f-4637-b52e-a021a1aa68d3)
+
 
   <dt>Add Invoice:</dt>
   
@@ -220,6 +228,8 @@
   - The calculated earnings, deductions, allowances, and the resulting take-home pay for the employee will show.<br/>
   - Click on the “Save” button to save the invoice details.
   - Click on the “Close” button to return to the Invoice Page. <br/>
+
+  
     
   <dt>View Invoices:</dt>
   
