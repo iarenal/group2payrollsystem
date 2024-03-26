@@ -156,7 +156,7 @@
   - Click on the “Save” button to confirm changes.<br/>
   - Optionally, click “Cancel” to discard changes and return to the employee list page.<br/>
 
-  ![Uploading Edit.gif…]()
+  ![Edit](https://github.com/iarenal/group2payrollsystem/assets/157627486/078da970-8511-4d59-b628-3ba43b46fa49)
 
 
   - **_For Deleting Employee Information:_**<br/>
@@ -165,7 +165,7 @@
   - Confirm deletion by clicking “Yes” in the prompt.<br/>
   - Verify successful deletion with a confirmation prompt.<br/>
 
-  ![Uploading Delete.gif…]()
+  ![Delete](https://github.com/iarenal/group2payrollsystem/assets/157627486/dbf786fb-6887-40b8-8684-560c4094a0d6)
 
   
 ### 3.3 Attendance Record and Management<br/>
