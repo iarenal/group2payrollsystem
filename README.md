@@ -15,8 +15,11 @@
 
 ##### III. [Using the Payroll System](https://tinyurl.com/4f43pup7)
 ##### 3.1 [Secure Login Procedures](https://tinyurl.com/yzw848xu)<br/>
-##### 3.2 [Salary and Deduction Calculations](https://tinyurl.com/y54aaz2r)<br/>
-##### 3.3 [Leave Approval and Application](https://tinyurl.com/5a25ytr5)<br/>
+##### 3.2 [Employee Information Management](https://tinyurl.com/2pj4xuev)<br/>
+##### 3.3 [Attendance Record and Management](https://tinyurl.com/4n7wp8sj)<br/>
+##### 3.4 [Salary and Deduction Calculations](https://tinyurl.com/3cya9xd3)<br/>
+##### 3.5 [Overtime and Leave Approval and Application](https://tinyurl.com/3ank5xzb)<br/>
+##### 3.6 [Account Management](https://tinyurl.com/3vbfaaz8)<br/>
 
 ##### IV. [Technical Information](https://tinyurl.com/54pmxt8z)
 ##### 4.1 [Use Case Diagram](https://tinyurl.com/wse2p4hh)<br/>
