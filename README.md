@@ -14,7 +14,7 @@
 ##### 2.3 [Accessing the System](https://tinyurl.com/2pavptwd) <br/>
 
 ##### III. [Using the Payroll System](https://tinyurl.com/4f43pup7)
-##### 3.1 [Secure Login Procedures](https://tinyurl.com/yzw848xu)<br/>
+##### 3.1 [Secure Login Procedures](https://tinyurl.com/5n8byjdw)<br/>
 ##### 3.2 [Employee Information Management](https://tinyurl.com/2pj4xuev)<br/>
 ##### 3.3 [Attendance Record and Management](https://tinyurl.com/4n7wp8sj)<br/>
 ##### 3.4 [Salary and Deduction Calculations](https://tinyurl.com/3cya9xd3)<br/>
